@@ -1,6 +1,8 @@
 # COVID-19_severity_prognosis
 Analysis of COVID-19 severity prognosis using hospital data. This repository contais one .csv file and five Jupyter Notebook
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6413250.svg)](https://doi.org/10.5281/zenodo.6413250)
+
 ## Original data
 This work used original data from COVID-19 Data Sharing/BR FAPESP, available at https://repositoriodatasharingfapesp.uspdigital.usp.br/, referent to Sirio Libanes hospital from Sao Paulo, Brazil.
 
